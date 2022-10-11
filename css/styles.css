@@ -1,0 +1,62 @@
+#title{
+  background-color:#EFEAD8;
+
+  width: 100%;
+  padding-top:  10rem;
+
+}
+
+#features{
+  background-color:#6D8B74;
+  height: 750px;
+  width: 100%;
+}
+
+
+#footer{
+
+  background-color:#5F7161;
+  height: 750px;
+  width: 100%;
+}
+
+.animate-charcter{
+  text-transform: uppercase;
+background-image: linear-gradient(
+ -225deg,
+ #445C3C 0%,
+ #889E81 29%,
+ #D6F8B8 67%,
+ #F9F8EB 100%
+);
+background-size: auto auto;
+background-clip: border-box;
+background-size: 200% auto;
+color: #fff;
+background-clip: text;
+text-fill-color: transparent;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+animation: textclip 5s linear infinite;
+display: inline-block;
+   font-size: 4rem;
+}
+.navbar-brand{
+
+  font-size: 2rem;
+  font-weight: bold;
+  color:#5F7161;
+}
+.nav-link{
+  color:#5F7161;
+}
+.mountain{
+  width: 100%;
+
+}
+
+h1{
+  font-size:4rem;
+  font-family: sans-serif;
+  color:#5F7161;
+}
